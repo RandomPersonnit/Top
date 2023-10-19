@@ -1,7 +1,4 @@
 --]] Welcome This The Void Exploit, Hope This Helps --[[
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
-
-local Window = Library.CreateLib("Random Person Script", "RJTheme8")
 
 local ScreenGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
